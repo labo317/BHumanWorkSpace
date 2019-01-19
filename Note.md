@@ -89,6 +89,6 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    + B-Swift in the Mixed Team Competition（B-Swift在混合团体赛中）
 
-5. Acknowledgements
+5. Acknowledgements（鸣谢）
 
 6. Bibliography（参考书目）
