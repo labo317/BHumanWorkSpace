@@ -12,3 +12,90 @@ Src，SRC包含b-human软件的源代码，包括b-human用户shell（在官方�
 
 Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（在官方文档[4，第10.1章]）。
 
+
+
+# 官方文档目录
+
+1. Introduction（介绍）
+
+2. Getting Started（开始）
+
+   1. Download（下载）
+
+   2. Components and Configurations（组建和配置）
+
+   3. Building the Code（构建代码）
+
+      + Project Generation
+
+      + Visual Studio on Windows
+
+      + Xcode on macOS
+
+        Note that the cross compiler actually builds code for Linux, although the scheme says “My Mac”. 
+
+      + Linux
+
+   4. Setting Up the NAO（建立NAO）
+
+      + Requirements（需求）
+      + Installing the Operating System（安装操作系统）
+      + Creating Robot Configuration Files for a NAO（为NAO创建机器人配置文件）
+      + Managing Wireless Configurations（管理无线网络配置）
+      + Installing the Robot（安装在机器人）
+
+   5. Copying the Compiled Code（复制已编译的代码）
+
+   6. Working with the NAO（与NAO合作）
+
+   7. Starting SimRobot（开始SimRobot）
+
+   8. Calibrating the Robots（校准机器人）
+
+      + Overall Physical Calibration（整体物理校准）
+      + Joint Calibration（联合标定）
+      + Camera Calibration（摄像机标定）
+      + Color Calibration（颜色校准）
+
+   9. Configuration Files（配置文件）
+
+3. Changes Since 2017（自2017年以来的变化）
+
+   1. Infrastructure（基础设施）
+
+      + Type Registration（类型注册）
+
+      + Inference of Neural Networks（神经网络推理）
+
+   2. Perception（感知）
+
+      + Controlling Camera Exposure（相机曝光控制）
+
+      + Detecting the Field Boundary（检测场边界）
+
+      + Detecting Obstacles（检测障碍）
+
+      + Detecting the Ball（探测球）
+
+   3. Motion Control（运动控制）
+
+      + Enhancement of the Kick Range（增加踢距）
+
+      + Getup Motions（起身动作？）
+
+   4. Behavior Control（行为控制）
+
+      + Behavior Infrastructure（行为基础设施）
+
+      + Free Kick（任意球）
+
+      + Kick Pose Provider（踢球提供程序）
+
+4. Technical Challenge and Mixed-Team Competition（技术挑战和混合团队比赛）
+   1. General Penalty Kick Challenge（一般点球挑战）
+
+   2. B-Swift in the Mixed Team Competition（B-Swift在混合团体赛中）
+
+5. Acknowledgements
+
+6. Bibliography（参考书目）
