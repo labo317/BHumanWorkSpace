@@ -40,7 +40,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
    + 2.3.3 macOS上的Xcode
    + 2.3.4 Linux
 
-   2.4 设置NAO
+   2.4 [设置NAO](./2017/2.4-Setting-Up-the-NAO.md)
 
    + 2.4.1 要求
    + 2.4.2 安装操作系统
