@@ -54,7 +54,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    2.7 [启动SimRobot](./2017/2.7-Starting-SimRobot.md)
 
-   2.8 机器人校准
+   2.8 [机器人校准](./2017/2.8-Calibrating-the-Robots.md)
 
    + 2.8.1 整体物理校准
    + 2.8.2 接头校准
