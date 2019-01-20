@@ -221,7 +221,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    + 5.5.3 多数票
 
-6. 行为控制
+6. [行为控制](./2017/6-Behavior-Control.md)
 
    6.1 CABSL
 
@@ -305,7 +305,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
 9. 技术挑战和混合团队比赛
 
-   9.1 罚球挑战
+   9.1 [罚球挑战](./2017/9.1-Penalty-Shot-Challenge.md)
 
    9.2 混合团体赛中的b组
 
