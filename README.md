@@ -63,7 +63,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    2.9 [配置文件](./2017/2.9-Configuration-Files.md)
 
-3. 建筑
+3. 构建
 
    3.1 绑定
 
