@@ -28,9 +28,9 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
 2. 开始
 
-   2.1 [下载](./2017/Download.md)
+   2.1 下载
 
-   2.2 组件和配置
+   2.2 [组件和配置](./2017/2.2-Components-and-Configurations.md)
 
    2.3 构建代码
 
