@@ -50,9 +50,9 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    2.5 [复制编译后的代码](./2017/2.5-Copying-the-Compiled-Code.md)
 
-   2.6 与NAO一起工作
+   2.6 [与NAO一起工作](./2017/2.6-Working-with-the-NAO.md)
 
-   2.7 启动SimRobot
+   2.7 [启动SimRobot](./2017/2.7-Starting-SimRobot.md)
 
    2.8 机器人校准
 
