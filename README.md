@@ -325,7 +325,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
    - Starting SimRobot（开始SimRobot）
 
-   - Calibrating the Robots（[校准机器人](./机器人校准.md)）
+   - Calibrating the Robots（[校准机器人](./2018/机器人校准.md)）
 
      - Overall Physical Calibration（整体物理校准）
      - Joint Calibration（联合标定）
