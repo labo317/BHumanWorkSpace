@@ -12,29 +12,7 @@ BHuman项目：https://github.com/bhuman/BHumanCodeRelease
 
 # 二、刷机（将BHuman部署到机器人上）
 
-注意：在部署bhuman之前，确保机器人的系统为naoqi，版本号为2.1.4.13，如若不是，请刷机。
-
-## 给机器人部署naoqi系统
-
-### 准备：
-
-+ U盘
-+ flasher-2.1.0.19-linux64
-+ opennao-atom-system-image-2.1.4.13_2015-08-27.opn
-
-### 步骤如下：
-
-在Ubuntu下，将U盘格式化。
-
-解压flasher-2.1.0.19-linux64，cd到这个解压好的目录下，`l`查看当前目录下的文件（ps：如果文件名右上角有*，说明权限不够，`sudo`即可）。
-
-`cd bin/`然后执行`sudo ./flasher`
-
-输入nao的密码（0）
-
-把u盘插入Nao的脑壳，按住胸前按钮直到次按钮不停的高频闪烁，释放按钮，Nao进入自动刷机状态，等待十几分钟，听到OGNAK后说明刷机完成，拔出U盘。
-
-在 linux 下关闭Wi-Fi连接，用网线连接机器人和电脑,编辑一个新网络,断开并重新连接,此时按机器人胸前按钮，会得到一个 ip。(如果是虚拟机要更改成桥连模式,关闭外网)，有时会听到“I cannot connect to the network”，多按几次（一般是3次）可以成功报出 IP，如果还是不行，先将NAO随意连接到其他任意设置的网络，之后断开，再连接回预设网络，方可成功。（由于刷好机后的NAO的有线IP都是以169.254开头，所以可以将Ethernet网的IPv4设置成：Address: 169.254.xxx.xxx; Netmask: 255.255.0.0; Gateway: 169.254.xxx.xxx）
+注意：在部署bhuman之前，确保机器人的系统为naoqi，版本号为2.1.4.13，如若不是，请[给机器人部署naoqi系统](#给机器人部署naoqi系统)。
 
 ## 给机器人部署BHuman系统
 
@@ -78,4 +56,28 @@ BHumanCodeRelease-master.zip解压，提取出来。把naoqi-sdk-2.1.4.13-linux3
 然后将电脑端连接的网络配置更改为192.168.xxx.xxx就可以了，或者在做完前面操作后，将机器人和电脑用网线连起来。
 
 然后执行：`./copyfiles Release 192.168.17.2`。
+
+
+
+## 给机器人部署naoqi系统
+
+### 准备：
+
+- U盘
+- flasher-2.1.0.19-linux64
+- opennao-atom-system-image-2.1.4.13_2015-08-27.opn
+
+### 步骤如下：
+
+在Ubuntu下，将U盘格式化。
+
+解压flasher-2.1.0.19-linux64，cd到这个解压好的目录下，`l`查看当前目录下的文件（ps：如果文件名右上角有*，说明权限不够，`sudo`即可）。
+
+`cd bin/`然后执行`sudo ./flasher`
+
+输入nao的密码（0）
+
+把u盘插入Nao的脑壳，按住胸前按钮直到次按钮不停的高频闪烁，释放按钮，Nao进入自动刷机状态，等待十几分钟，听到OGNAK后说明刷机完成，拔出U盘。
+
+在 linux 下关闭Wi-Fi连接，用网线连接机器人和电脑,编辑一个新网络,断开并重新连接,此时按机器人胸前按钮，会得到一个 ip。(如果是虚拟机要更改成桥连模式,关闭外网)，有时会听到“I cannot connect to the network”，多按几次（一般是3次）可以成功报出 IP，如果还是不行，先将NAO随意连接到其他任意设置的网络，之后断开，再连接回预设网络，方可成功。（由于刷好机后的NAO的有线IP都是以169.254开头，所以可以将Ethernet网的IPv4设置成：Address: 169.254.xxx.xxx; Netmask: 255.255.0.0; Gateway: 169.254.xxx.xxx）
 
