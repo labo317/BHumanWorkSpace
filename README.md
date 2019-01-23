@@ -1,4 +1,4 @@
-:star::star::star:暗示:star::star::star:  
+这里是我们的学习笔记仓库～
 
 # Let's Play Foooootball
 
@@ -8,6 +8,8 @@
 
 + [C ++ SDK - Hello world（自动生成）](http://doc.aldebaran.com/2-5/dev/cpp/helloworld_auto.html#cpp-helloworld-auto)
 + [C ++ SDK - Hello world（一步一步）](http://doc.aldebaran.com/2-5/dev/cpp/helloworld_detailed.html#c-sdk-hello-world-step-by-step)
+
+### [词典～](./Start/Dictionary.md)
 
 ---
 
