@@ -2,7 +2,12 @@
 
 # Let's Play Foooootball
 
-#### [BHuman准备篇（刷机指南）](./Start/BHuman准备篇.md)
+#### [BHuman准备篇（刷机）](./Start/BHuman准备篇.md)
+
+#### [Naoqi的C++SDK（安装）](http://doc.aldebaran.com/2-5/dev/cpp/install_guide.html)
+
++ [C ++ SDK - Hello world（自动生成）](http://doc.aldebaran.com/2-5/dev/cpp/helloworld_auto.html#cpp-helloworld-auto)
++ [C ++ SDK - Hello world（一步一步）](http://doc.aldebaran.com/2-5/dev/cpp/helloworld_detailed.html#c-sdk-hello-world-step-by-step)
 
 ---
 
@@ -20,7 +25,11 @@ Src，SRC包含b-human软件的源代码，包括b-human用户shell（在官方�
 
 Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（在官方文档[4，第10.1章]）。
 
-### NaoqiAPI
+---
+
+### [NaoqiAPIs](http://doc.aldebaran.com/2-5/naoqi/index.html)
+
+[naoqi-cpp-api](http://doc.aldebaran.com/2-5/ref/cpp-api.html#naoqi-cpp-api)、[cpp-class-index](http://doc.aldebaran.com/2-5/cpp-classindex.html)、[cpp-func-index](http://doc.aldebaran.com/2-5/cpp-funcindex.html)、[naoqi-event-index](http://doc.aldebaran.com/2-5/naoqi-eventindex.html)、[naoqi-memory-index](http://doc.aldebaran.com/2-5/naoqi-memoryindex.html)
 
 ![api](./img/NaoqiAPI.png)
 
@@ -422,7 +431,6 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
 ---
 
----
-
 # EOF
 
+:star::star::star:暗示:star::star::star:  
