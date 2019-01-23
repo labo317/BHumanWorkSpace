@@ -1,3 +1,5 @@
+:star::star::star:暗示:star::star::star:  
+
 # Let's Play Foooootball
 
 #### [BHuman准备篇（刷机指南）](./Start/BHuman准备篇.md)
@@ -54,27 +56,27 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
      + 2.4.5 管理无线配置
      + 2.4.5 安装机器人
 
-   + 2.5 [复制编译后的代码](./2017/2.5-Copying-the-Compiled-Code.md)
+   + 2.5 [复制编译后的代码（Copying the Compiled Code）](./2017/2.5-Copying-the-Compiled-Code.md)
 
-   + 2.6 [与NAO一起工作](./2017/2.6-Working-with-the-NAO.md)
+   + 2.6 [与NAO一起工作（Working with the NAO）](./2017/2.6-Working-with-the-NAO.md)
 
-   + 2.7 [启动SimRobot](./2017/2.7-Starting-SimRobot.md)
+   + 2.7 [启动SimRobot（Starting SimRobot）](./2017/2.7-Starting-SimRobot.md)
 
-   + 2.8 [机器人校准](./2017/2.8-Calibrating-the-Robots.md)
+   + 2.8 [机器人校准（Calibrating the Robots）](./2017/2.8-Calibrating-the-Robots.md)
      + 2.8.1 整体物理校准
      + 2.8.2 接头校准
      + 2.8.3 摄像机校准
      + 2.8.4 颜色校准
 
-   + 2.9 [配置文件](./2017/2.9-Configuration-Files.md)
+   + 2.9 [配置文件（Configuration Files）](./2017/2.9-Configuration-Files.md)
 
 3. 构建
 
-   + 3.1 绑定
+   + 3.1 [绑定（Binding）](./2017/3.1-Binding.md)
 
-   + 3.2 流程
+   + 3.2 [进程（Processes）](./2017/3.2-Processes.md)
 
-   + 3.3 模块和表示
+   + 3.3 [模块和表示（Modules and Representations）](./2017/3.3-Modules-and-Representations.md)
      + 3.3.1 黑板
 
      + 3.3.2 模块定义
