@@ -88,7 +88,7 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
    + 3.2 [进程（Processes）](./2017/3.2-Processes.md)
 
    + 3.3 [模块和表示（Modules and Representations）](./2017/3.3-Modules-and-Representations.md)
-     + 3.3.1 黑板
+     + 3.3.1 黑板（Blackboard）
 
      + 3.3.2 模块定义
 
@@ -98,20 +98,20 @@ Util，Util包含辅助和第三方库（参见第5）以及模拟器Simrobot（
 
      + 3.3.5 参数化模块
 
-   + 3.4 序列化
-     + 3.4.1 流
+   + 3.4 [序列化（串行化，Serialization）](./2017/3.4-Serialization.md)
+     + 3.4.1 [流（Streams）](./2017/3.4.1-Streams.md)
 
-     + 3.4.2 流式数据
+     + 3.4.2 [流式数据（Streaming Data）](./2017/3.4.2-Streaming-Data.md)
 
-     + 3.4.3 流式类
+     + 3.4.3 [流式类（Streamable Classes）](./2017/3.4.3-Streamable-Classes.md)
 
-     + 3.4.4 生成可流化类
+     + 3.4.4 [生成可流化类（Generating Streamable Classes）](./2017/3.4.4-Generating-Streamable-Classes.md)
 
-     + 3.4.5 配置映射
+     + 3.4.5 [配置映射（Configuration Maps）](./2017/3.4.5-Configuration-Maps.md)
 
-     + 3.4.6 枚举
+     + 3.4.6 [枚举（Enumerations）](./2017/3.4.6-Enumerations.md)
 
-     + 3.4.7 函数
+     + 3.4.7 [函数（Functions）](./2017/3.4.7-Functions.md)
 
    + 3.5 沟通
      + 3.5.1 进程间通信
